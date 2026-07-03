@@ -14,6 +14,10 @@ A lightweight, reliable desktop application built with Python that allows users 
 
 ---
 
+## Author
+
+Pragya Singh
+
 ## Project Architecture
 
 ```text
@@ -32,6 +36,3 @@ Calender and Reminder App/
 
 ---
 
-## Author
-
-Pragya Singh
