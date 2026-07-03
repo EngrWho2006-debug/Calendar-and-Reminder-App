@@ -28,6 +28,8 @@ Calender and Reminder App/
 ├── .gitignore            # Tells Git to exclude localized caches and virtual envs
 └── README.md             # Project documentation (this file)
 
+ ```text
+
 ---
 
 ## Author
