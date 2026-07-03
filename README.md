@@ -1,10 +1,10 @@
-# 📅 Desktop Calendar & Reminder Application
+#  Desktop Calendar & Reminder Application
 
 A lightweight, reliable desktop application built with Python that allows users to pick dates, schedule specific reminder times, and receive real-time native OS desktop notifications. The app uses a background worker thread to manage countdown checks and saves all data locally via SQLite so reminders persist even after closing the program.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Interactive GUI Calendar:** Clean date picker using `tkcalendar`.
 - **Precise 24-Hour Time Configuration:** Dropdown pickers for hours and minutes.
@@ -13,8 +13,13 @@ A lightweight, reliable desktop application built with Python that allows users 
 - **Native OS Push Notifications:** Uses `plyer` to deliver slide-out popups directly via Windows, macOS, or Linux toast managers.
 
 ---
+## Author
 
-## 📁 Project Architecture
+Pragya Singh
+
+---
+
+##  Project Architecture
 
 ```text
 Calender and Reminder App/
@@ -27,3 +32,4 @@ Calender and Reminder App/
 │
 ├── .gitignore            # Tells Git to exclude localized caches and virtual envs
 └── README.md             # Project documentation (this file)
+
