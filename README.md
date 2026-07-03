@@ -16,7 +16,7 @@ A lightweight, reliable desktop application built with Python that allows users 
 
 ## Project Architecture
 
-
+''' text
 Calender and Reminder App/
 │
 ├── calender_app/         # Core application directory
@@ -27,7 +27,7 @@ Calender and Reminder App/
 │
 ├── .gitignore            # Tells Git to exclude localized caches and virtual envs
 └── README.md             # Project documentation (this file)
-
+''' text
  
 
 ---
